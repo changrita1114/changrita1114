@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![cover img](https://github.com/changrita1114/changrita1114/blob/main/IMG_0032.jpg?raw=true)
 
 ![Fang Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=changrita1114&show_icons=true&theme=buefy)
